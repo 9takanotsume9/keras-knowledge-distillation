@@ -84,4 +84,8 @@ target/
 # Mac OS-specific storage files
 .DS_Store
 
+# Weights
+/*.h5
+/*.hdf5
+
 !.gitkeep
