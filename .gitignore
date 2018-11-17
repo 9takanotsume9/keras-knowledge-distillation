@@ -88,4 +88,6 @@ target/
 */*.h5
 */*.hdf5
 
+# npy
+*/*.npy
 !.gitkeep
