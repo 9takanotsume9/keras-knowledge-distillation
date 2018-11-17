@@ -85,7 +85,7 @@ target/
 .DS_Store
 
 # Weights
-/*.h5
-/*.hdf5
+*/*.h5
+*/*.hdf5
 
 !.gitkeep
